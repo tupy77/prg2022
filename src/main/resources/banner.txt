@@ -1,0 +1,9 @@
+    ______    ______    ___     ______
+   / ____/   / ____/   /   |   / ____/
+  / __/     / __/     / /| |  / __/   
+ / /___    / /___    / ___ | / /___   
+/_____/   /_____/   /_/  |_|/_____/   
+                                      
+${application.title} ${application.version}
+Java App del curso PRG 2022 ${spring-boot.version}
+
