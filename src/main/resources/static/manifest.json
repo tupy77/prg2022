@@ -1,22 +1,22 @@
 {
     "name":"PRG2022",
     "short_name":"PRG2022",
-    "start_url":"\/",
+    "start_url":"\/", 
     "display":"standalone",
     "background_color":"#fff",
     "theme_color":"#333",
     "icons":
         [
             {
-                "src":"\/apple-touch-icon-xx.png",
+                "src":"\/apple-touch-icon-192.png",
                 "sizes":"192x192","type":"image\/png"
             },
             {
-                "src":"\/apple-touch-icon-xx.png",
+                "src":"\/apple-touch-icon-512.png",
                 "sizes":"512x512","type":"image\/png"
             },
             {
-                "src":"\/apple-touch-icon-xx.png",
+                "src":"\/apple-touch-icon-512.png",
                 "sizes":"512x512","type":"image\/png",
                 "purpose":"any maskable"
             }
