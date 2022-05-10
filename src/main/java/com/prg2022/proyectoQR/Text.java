@@ -11,5 +11,11 @@ public class Text {
     public String text(){
         return "master";
     }
+
+    @GetMapping("/login")
+
+    public String login(){
+        return "login";
+    }
     
 }
